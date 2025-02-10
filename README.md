@@ -11,3 +11,8 @@ nomad_challenge_04_03
     - follow 버튼 누르면 following 으로 변경되도록 상태 관리 
 - 검색 기능 구현 
   -  검색어 입력시 리스트 필터링 기능 추가 
+
+# 5주차 #12 user profile 
+ ## 새로배운것 
+ -  `SliverAppBar` : https://api.flutter.dev/flutter/widgets/CustomScrollView-class.html
+ - 

@@ -14,7 +14,7 @@ class BottomNavigationScreen extends StatefulWidget {
 }
 
 class _BottomNavigationScreenState extends State<BottomNavigationScreen> {
-  int _currentIndex = 0;
+  int _currentIndex = 4;
 
   final List<Widget> _screens = const [
     HomeScreen(),
