@@ -15,4 +15,4 @@ nomad_challenge_04_03
 # 5주차 #12 user profile 
  ## 새로배운것 
  -  `SliverAppBar` : https://api.flutter.dev/flutter/widgets/CustomScrollView-class.html
- - 
+ - 일반적인 flutter widget 렌더할때 쓸 수 있는 것이 `SliverToBoxAdapter`
